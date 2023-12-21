@@ -1,5 +1,5 @@
 import aboutImg from "../images/about.jpeg";
-import Title from "./Title";
+import Title from ".components/Title";
 const About = () => {
 	return (
 		<section
