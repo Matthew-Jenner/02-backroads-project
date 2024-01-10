@@ -6,22 +6,16 @@ import Tours from "./components/Tours";
 import Footer from "./components/Footer";
 
 function App() {
-  return (
-    <>
-    <NavBar/>
-    <Hero/>
-    <About/>
-    <Services/>
-    <Tours/>
-    <Footer/>
-
-
-
-
-    
-    </>
-
-)
+	return (
+		<>
+			<NavBar />
+			<Hero />
+			<About />
+			<Services />
+			<Tours />
+			<Footer />
+		</>
+	);
 }
 
 export default App;
