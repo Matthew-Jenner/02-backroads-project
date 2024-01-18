@@ -1,5 +1,5 @@
 import aboutImg from "../images/about.jpeg";
-import Title from "./Title.js"
+import Title from "./Title.js";
 const About = () => {
 	return (
 		<section
@@ -30,7 +30,7 @@ const About = () => {
 						unde dolor?
 					</p>
 					<a
-						href="#"
+						href="#about"
 						className="btn">
 						read more
 					</a>
